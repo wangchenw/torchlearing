@@ -56,3 +56,5 @@ def set_figsize(figsize=(3.5,2.5)):
     
 set_figsize()
 plt.scatter(features[:,1],labels)
+
+#%% 上面的函数不了解
