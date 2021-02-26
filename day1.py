@@ -58,3 +58,4 @@ set_figsize()
 plt.scatter(features[:,1],labels)
 
 #%% 上面的函数不了解
+print()
